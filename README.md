@@ -11,7 +11,9 @@
 📫 How to reach me **marleyedrg@gmail.com**
 
 ## ✅Current plans:
-[x ] finish
+- [ ]<a href="https://www.youtube.com" target="_blank" rel="noopener" style="color: black"> Finish Santander Bootcamp 2023 - Fullstack Java+Angular by Dio</a>
+- [ ]<a href="https://www.youtube.com" target="_blank" rel="noopener" style="color: black"> Finish The JavaScript Course by Alura</a>
+- [ ] Get my first job as a developer
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -42,9 +44,9 @@
         </a>
     </p>
 
-<h3 align="left">Feel free to contact me here or through my socials:</h3>
+<h3 align="left">Feel free to contact me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/marleyedrg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marleyedrg" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/marleyedrg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="marleyedrg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marleyedrg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+
 </p>
 
