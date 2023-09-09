@@ -1,6 +1,6 @@
 <img align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="programming" border="0" width="460px">
 
-<h1 align="center">Hi 👋, I'm Marley</h1>
+<h1 align="center">Hi 👋 I'm Marley</h1>
 
 📍I'm from Brasília, Brazil
 
