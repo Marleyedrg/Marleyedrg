@@ -44,6 +44,8 @@
         </a>
     </p>
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Marleyedrg&bg_color=white&border_color=transparent&title_color=000000&text_color=000000)
+
 <h3 align="left">Feel free to contact me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/marleyedrg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
