@@ -48,5 +48,14 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/marleyedrg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
+**Leetcode**<br>
+<a href="https://www.leetcode.com/marleyedrg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="marleyedrg" height="30" width="40" /></a>
+
 </p>
+<h3>Main projects:</h3>
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Marleyedrg&repo=Blockridor&bg_color=white&border_color=black&show_icons=true&icon_color=black&title_color=black&text_color=black)](https://github.com/Marleyedrg/Blockridor)
+<h2>...</h2>
+
+
 
