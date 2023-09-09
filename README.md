@@ -11,8 +11,8 @@
 📫 How to reach me **marleyedrg@gmail.com**
 
 ## ✅Current plans:
-- [ ] <a href="https://www.youtube.com" target="_blank" rel="noopener" style="color: black"> Finish Santander Bootcamp 2023 - Fullstack Java+Angular by Dio</a>
-- [ ] <a href="https://www.youtube.com" target="_blank" rel="noopener" style="color: black"> Finish The JavaScript Course by Alura</a>
+- [ ] <a href="#" target="_blank" rel="noopener" style="color: black"> Finish Santander Bootcamp 2023 - Fullstack Java+Angular by Dio</a>
+- [ ] <a href="#" target="_blank" rel="noopener" style="color: black"> Finish The JavaScript Course by Udemy</a>
 - [ ] Get my first job as a developer
 
 <h3 align="left">Languages and Tools:</h3>
