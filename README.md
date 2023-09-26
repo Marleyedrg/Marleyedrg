@@ -1,6 +1,12 @@
 <img align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="programming" border="0" width="460px">
 
 <h1 align="center">Hi 👋 I'm Marley</h1>
+<p>
+No final de 2022, comecei a me interessar por programação e desde então, tenho me concentrado no desenvolvimento front-end, aprimorando minhas habilidades em HTML, CSS,JavaScript,e recentemente Typescript e Angular. 
+Meu objetivo de longo prazo é me tornar um desenvolvedor full-stack.
+Acredito que essa combinação de habilidades me permitirá criar aplicativos completos. 
+Me apaixonei pela área, cada vez progredindo mais e ansioso para continuar aprendendo e crescendo mais na área.
+</p>
 
 📍I'm from Brasília, Brazil
 
