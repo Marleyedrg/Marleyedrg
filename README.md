@@ -8,7 +8,7 @@ Acredito que essa combinação de habilidades me permitirá criar aplicativos co
 Me apaixonei pela área, cada vez progredindo mais e ansioso para continuar aprendendo e crescendo mais na área.
 </p>
 
-📍I'm from Brasília, Brazil
+📍 I'm from Brasília, Brazil
 
 🌱 I’m currently learning **more about JavaScript, Java and Spring Boot**
 
@@ -25,7 +25,9 @@ Me apaixonei pela área, cada vez progredindo mais e ansioso para continuar apre
 - [ ] Get my first job as a developer
 - [ ] Improve knowledge in REST
 
-<h3 align="left">Languages and Tools:</h3>
+<b>To be continued...</b>
+
+<h3 align="left">Languages and Tools:🛠</h3>
 
 <p align="left">
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
