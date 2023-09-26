@@ -19,6 +19,7 @@ Me apaixonei pela área, cada vez progredindo mais e ansioso para continuar apre
 ## ✅Current plans:
 - [ ] <a href="#" target="_blank" rel="noopener" style="color: black"> Finish Santander Bootcamp 2023 - Fullstack Java+Angular by Dio</a>
 - [ ] <a href="#" target="_blank" rel="noopener" style="color: black"> Finish The JavaScript Course by Udemy</a>
+- [ ] learn bootstrap
 - [ ] Create projects with angular
 - [ ] Create my portfolio with angular
 - [ ] Get my first job as a developer
