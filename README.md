@@ -4,7 +4,7 @@
 
 📍 I'm from Brasília, Brazil
 
-🌱 I’m currently learning **more about JavaScript, Java and Spring Boot**
+🌱 I’m currently learning **more about JavaScript, Typescript and Angular**
 
 👨‍💻 All of my projects are available at [https://github.com/Marleyedrg](https://github.com/Marleyedrg)
 
