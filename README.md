@@ -2,19 +2,14 @@
 
 📍 I'm from Brasília, Brazil
 
-🌱 I’m currently learning **more about JavaScript, Typescript and Angular**
+🌱 I’m currently learning **more about JavaScript and Typescript**
 
 👨‍💻 All of my projects are available at [https://github.com/Marleyedrg](https://github.com/Marleyedrg)
 
 📫 How to reach me **marleyedrg@gmail.com**
 
 ## ✅Current plans:
-- [ ] <a href="#" target="_blank" rel="noopener" style="color: black"> Finish The JavaScript Course by Udemy</a>
-- [ ] learn bootstrap
-- [ ] Create projects with angular
-- [ ] Create my portfolio with angular
-- [ ] Get my first job as a developer
-- [ ] Improve knowledge in REST
+- [ ] study
 
 <b>To be continued...</b>
 
@@ -26,9 +21,8 @@
 
 <h3 align="left">I want to learn in the future👨‍💻:</h3>
 
+[![C#](https://img.shields.io/badge/C%23-%2300f.svg?logo=csharp&logoColor=white)](#)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
