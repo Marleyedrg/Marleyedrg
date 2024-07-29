@@ -2,7 +2,7 @@
 
 📍 I'm from Brasília, Brazil
 
-🌱 I’m currently learning **more about JavaScript and Typescript**
+🌱 I’m currently learning **more about C**
 
 👨‍💻 All of my projects are available at [https://github.com/Marleyedrg](https://github.com/Marleyedrg)
 
