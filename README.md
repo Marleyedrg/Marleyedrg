@@ -33,7 +33,7 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Marleyedrg&repo=encryption_in_C&bg_color=white&border_color=black&show_icons=true&icon_color=black&title_color=black&text_color=black)](https://github.com/Marleyedrg/encryption_in_C)
 <br/>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Marleyedrg&repo=projects-of-C&custom_title=Bank%20Management%20System&bg_color=white&border_color=black&show_icons=true&icon_color=black&title_color=black&text_color=black&cache_seconds=21600)](https://github.com/Marleyedrg/projects-of-C/tree/main/4-bank)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Marleyedrg&repo=projects-of-C&bg_color=white&border_color=black&show_icons=true&icon_color=black&title_color=black&text_color=black&cache_seconds=21600)]([https://github.com/Marleyedrg/projects-of-C/tree/main/4-bank](https://github.com/Marleyedrg/projects-of-C/tree/main))
 
 
 
