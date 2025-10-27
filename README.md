@@ -31,10 +31,8 @@
 </p>
 <h3>Main projects:</h3>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Marleyedrg&repo=encryption_in_C&bg_color=white&border_color=black&show_icons=true&icon_color=black&title_color=black&text_color=black)](https://github.com/Marleyedrg/encryption_in_C)
-<br/>
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Marleyedrg&repo=projects-of-C&bg_color=white&border_color=black&show_icons=true&icon_color=black&title_color=black&text_color=black)](https://github.com/Marleyedrg/projects-of-C)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Marleyedrg&repo=simpleJSBundler&bg_color=white&border_color=black&show_icons=true&icon_color=black&title_color=black&text_color=black)](https://github.com/Marleyedrg/simpleJSBundler)
 
 
 
