@@ -21,6 +21,9 @@
 </p>
 
 
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marleyedrg&layout=compact&theme=tokyonight)
+
+
 <h3 align="left">Feel free to contact me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/marleyedrg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
