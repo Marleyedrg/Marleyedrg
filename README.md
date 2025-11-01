@@ -17,11 +17,13 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/-00599C.svg?style=for-the-badge&logo=c&logoColor=white&label=" alt="C" />
-
+ 
 </p>
 
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marleyedrg&layout=compact&theme=tokyonight)
+<div align="center">
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marleyedrg&layout=compact&theme=tokyonight"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Marleyedrg&show_icons=true&theme=dark&rank_icon=none"/>  
+</div>
 
 
 <h3 align="left">Feel free to contact me:</h3>
